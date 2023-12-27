@@ -1,2 +1,2 @@
 # BasicPython
-Algumas aulas básicas de Python para revisão rápida
+Curso de Python do básico ao avançado pela Udemy. Esses colab's são para revisão rápida
